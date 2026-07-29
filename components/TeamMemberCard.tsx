@@ -1,3 +1,5 @@
+'use client'
+
 import type { TeamMember } from '@/types'
 import { getMetafieldValue } from '@/lib/cosmic'
 
